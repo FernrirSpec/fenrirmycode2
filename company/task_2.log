@@ -1,0 +1,538 @@
+[13.12.53] Init FileSystem 0.193916 sec
+[13.12.53] xrCore build 1678, Aug  1 2021
+[13.12.53] xrOxygen Version: branch[ox_dev-Github_New], commit[Giperion: bd550d9e321e531ca832f4a484e8e998e8f6d71c]
+[13.12.53] * Default Heap: 0x000001f46edc0000
+[13.12.53] * Our Heap: 0x0000000000000000
+[13.12.53] Loading DLL: xrScripts.dll
+[13.12.53] Initializing Engine...
+[13.12.53] Starting INPUT device...
+[13.12.53] Executing config-script "user.ltx"...
+[13.12.53] [c:\installed_games\another_side\userdata\user.ltx] successfully loaded.
+[13.12.53] Loading DLL: xrRender_R4
+[13.12.53] Loading DLL: xrGame
+[13.12.53] Executing config-script "c:\installed_games\another_side\gamedata\configs\gameextra.ltx"...
+[13.12.53] [c:\installed_games\another_side\gamedata\configs\gameextra.ltx] successfully loaded.
+[13.12.53] Extra feature mask: 1120
+[13.12.53] Loading DLL: OpenAL32.dll
+[13.12.53] SOUND: OpenAL: enumerate devices...
+[13.12.53] SOUND: OpenAL: EnumerationExtension Present
+[13.12.53] devices OpenAL Soft
+[13.12.53] SOUND: OpenAL: system  default SndDevice name is OpenAL Soft
+[13.12.53] [OpenAL] device: OpenAL Soft, EFX Support: yes
+[13.12.54] SOUND: OpenAL: All available devices:
+[13.12.54] Executing config-script "c:\installed_games\another_side\gamedata\configs\default_controls.ltx"...
+[13.12.54] [c:\installed_games\another_side\gamedata\configs\default_controls.ltx] successfully loaded.
+[13.12.54] Executing config-script "user.ltx"...
+[13.12.54] ! Unknown command: hash_0x02
+[13.12.54] Executing config-script "c:\installed_games\another_side\gamedata\configs\rspec_extreme.ltx"...
+[13.12.54] ! Unknown command: r_fxaa
+[13.12.54] ! Unknown command: r_supersample
+[13.12.54] [c:\installed_games\another_side\gamedata\configs\rspec_extreme.ltx] successfully loaded.
+[13.12.54] Executing config-script "c:\installed_games\another_side\gamedata\configs\default_controls.ltx"...
+[13.12.54] [c:\installed_games\another_side\gamedata\configs\default_controls.ltx] successfully loaded.
+[13.12.54] [GAME] Game language changed!
+[13.12.54] ~ Invalid syntax in call to 'r_aa_mode'
+[13.12.54] ~ Valid arguments: st_opt_fxaa/st_opt_dlaa/st_opt_smaa
+[13.12.54] [c:\installed_games\another_side\userdata\user.ltx] successfully loaded.
+[13.12.54] [SOUND]: Selected device is [OpenAL Soft]
+[13.12.54] [OpenAL] EFX: present
+[13.12.54] * sound : cache: 65537 kb, 4856 lines, 13820 bpl
+[13.12.54] ** Engine initialization complete.
+[13.12.54] UpdateWindowPropStyle: Resize result
+[13.12.54] 	WindowArea (left, top, right, bottom): 0.000000, 0.000000, 3840.000000, 2160.000000
+[13.12.54] 	DesktopArea (left, top, right, bottom): 0.000000, 0.000000, 3840.000000, 2160.000000
+[13.12.54] Starting RENDER device...
+[13.12.54] * GPU [vendor:10DE]-[device:1ED3]: NVIDIA GeForce RTX 2080 Super
+[13.12.54] on_message - Window moved
+[13.12.54] 	WindowArea (left, top, right, bottom): 0.000000, 0.000000, 0.000000, 0.000000
+[13.12.54] * CREATE: DeviceREF:5
+[13.12.54] * Texture memory: 8010 M
+[13.12.54] UpdateWindowPropStyle: Resize result
+[13.12.54] 	WindowArea (left, top, right, bottom): 0.000000, 0.000000, 3840.000000, 2160.000000
+[13.12.54] 	DesktopArea (left, top, right, bottom): 0.000000, 0.000000, 3840.000000, 2160.000000
+[13.12.54] * GPU shading: vs(0/4.0/40), ps(0/4.0/40)
+[13.12.54] * GPU vertex cache: unrecognized, 24
+[13.12.54] * DVB created: 4096K
+[13.12.54] * DIB created: 512K
+[13.12.54] * HWDST/PCF supported and used
+[13.13.25] * loading script _g.script
+[13.13.25] * loading script lua_addition.script
+[13.13.25] * loading script oxy_string.script
+[13.13.25] * loading script class_registrator.script
+[13.13.25] * loading script ui_main_menu.script
+[13.13.25] * loading script smart_terrain.script
+[13.13.25] * loading script se_level_changer.script
+[13.13.25] * loading script se_actor.script
+[13.13.25] * loading script se_stalker.script
+[13.13.25] * loading script se_heli.script
+[13.13.25] * loading script se_zones.script
+[13.13.25] * loading script se_item.script
+[13.13.25] * loading script se_smart_cover.script
+[13.13.25] * loading script se_artefact.script
+[13.13.25] * loading script se_monster.script
+[13.13.25] ! Cannot register client class "CBullet"
+[13.13.25] ! Cannot register client class "CGrenade"
+[13.13.25] * loading script sim_squad_scripted.script
+[13.13.25] Starting engine...
+[13.13.25] Value of system displays: 1.
+[13.13.25] * Init game globals...
+[13.13.25] intro_delete ::update_logo_intro
+[13.13.25] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\.ogg.ogg
+[13.13.25] * loading script xr_s.script
+[13.13.29] * phase time: 0 ms
+[13.13.29] Loading objects...
+[13.13.29] Loading models...
+[13.13.29] CResourceManager::DeferredUpload -> START, size = 286
+[13.13.29] ! Can't find texture 'wm\wm_knife_wood2'
+[13.13.29] ! Can't find texture 'fx\fx_flare1'
+[13.13.29] ! Can't find texture 'act\act_controller_hit1'
+[13.13.29] ! Can't find texture 'fx\fx_flare3'
+[13.13.29] ! Can't find texture 'act\act_arm_3'
+[13.13.29] ! Can't find texture 'fx\fx_gradient'
+[13.13.29] ! Can't find texture 'fx\fx_flare2'
+[13.13.29] ! Can't find texture 'fx\fx_gradient1'
+[13.13.29] ! Can't find texture 'fx\fx_lightning'
+[13.13.29] ! Can't find texture 'fx\fx_noise'
+[13.13.29] ! Can't find texture 'fx\fx_noise2'
+[13.13.29] ! Can't find texture 'fx\fx_rain'
+[13.13.29] ! Can't find texture 'fx\fx_rainsplash1'
+[13.13.29] ! Can't find texture 'fx\fx_sun'
+[13.13.29] ! Can't find texture 'fx\fx_sun_rise'
+[13.13.29] ! Can't find texture 'fx\fx_thunderbolts_gradient'
+[13.13.29] ! Can't find texture 'fx\fx_thunderbolts_gradient_surge'
+[13.13.29] ! Can't find texture 'fx\fx_tracer_weapons'
+[13.13.29] ! Can't find texture 'fx\fx_volumefog1'
+[13.13.29] ! Can't find texture 'glow\glow_04'
+[13.13.29] ! Can't find texture 'glow\glow_fire1'
+[13.13.29] ! Can't find texture 'glow\glow_orange'
+[13.13.29] ! Can't find texture 'glow\glow_orange2'
+[13.13.29] ! Can't find texture 'glow\glow_orange_bright'
+[13.13.29] ! Can't find texture 'glow\glow_white'
+[13.13.29] ! Can't find texture 'wm\wm_knife_wood1'
+[13.13.29] ! Can't find texture 'internal\internal_fireTransferFunction'
+[13.13.29] ! Can't find texture 'lights\lights_spot01'
+[13.13.29] ! Can't find texture 'pfx\pfx_ani-explosion-02'
+[13.13.29] ! Can't find texture 'pfx\pfx_ani-explosion-02-b-a'
+[13.13.29] ! Can't find texture 'pfx\pfx_ani-explosion-02a'
+[13.13.29] ! Can't find texture 'pfx\pfx_ani-fire01'
+[13.13.29] ! Can't find texture 'pfx\pfx_ani-smoke-01'
+[13.13.29] ! Can't find texture 'pfx\pfx_anomaly_1'
+[13.13.29] ! Can't find texture 'pfx\pfx_anomaly_16'
+[13.13.29] ! Can't find texture 'pfx\pfx_anomaly_18'
+[13.13.29] ! Can't find texture 'pfx\pfx_anomaly_19'
+[13.13.29] ! Can't find texture 'pfx\pfx_anomaly_2'
+[13.13.29] ! Can't find texture 'pfx\pfx_anomaly_21'
+[13.13.29] ! Can't find texture 'pfx\pfx_anomaly_23'
+[13.13.29] ! Can't find texture 'pfx\pfx_anomaly_2_green'
+[13.13.29] ! Can't find texture 'pfx\pfx_anomaly_3'
+[13.13.29] ! Can't find texture 'pfx\pfx_anomaly_4'
+[13.13.29] ! Can't find texture 'pfx\pfx_anomaly_5'
+[13.13.29] ! Can't find texture 'pfx\pfx_anomaly_6'
+[13.13.29] ! Can't find texture 'pfx\pfx_anomaly_7'
+[13.13.29] ! Can't find texture 'pfx\pfx_anomaly_8'
+[13.13.29] ! Can't find texture 'pfx\pfx_anomaly_88'
+[13.13.29] ! Can't find texture 'pfx\pfx_anomaly_9'
+[13.13.29] ! Can't find texture 'pfx\pfx_bloodsplash1'
+[13.13.29] ! Can't find texture 'pfx\pfx_bloodsplash2'
+[13.13.29] ! Can't find texture 'wm\wm_knife_wood'
+[13.13.29] ! Can't find texture 'pfx\pfx_blurry_cloud'
+[13.13.29] ! Can't find texture 'pfx\pfx_bubble'
+[13.13.29] ! Can't find texture 'pfx\pfx_bubble_1'
+[13.13.29] ! Can't find texture 'pfx\pfx_bubble_water'
+[13.13.29] ! Can't find texture 'pfx\pfx_concretedebris_01'
+[13.13.29] ! Can't find texture 'pfx\pfx_brick'
+[13.13.29] ! Can't find texture 'pfx\pfx_concretepuffs_01'
+[13.13.29] ! Can't find texture 'pfx\pfx_dist2'
+[13.13.29] ! Can't find texture 'pfx\pfx_dist2inv'
+[13.13.29] ! Can't find texture 'pfx\pfx_dist3'
+[13.13.29] ! Can't find texture 'pfx\pfx_dist4'
+[13.13.29] ! Can't find texture 'pfx\pfx_dist8'
+[13.13.29] ! Can't find texture 'pfx\pfx_dist9'
+[13.13.29] ! Can't find texture 'pfx\pfx_dist_teleport'
+[13.13.29] ! Can't find texture 'pfx\pfx_distort_anomaly'
+[13.13.29] ! Can't find texture 'pfx\pfx_distortion'
+[13.13.29] ! Can't find texture 'pfx\pfx_explotions_2'
+[13.13.29] ! Can't find texture 'pfx\pfx_explotions_3'
+[13.13.29] ! Can't find texture 'wm\wm_knife_horiz_ston'
+[13.13.29] ! Can't find texture 'pfx\pfx_explotions_4'
+[13.13.29] ! Can't find texture 'pfx\pfx_explotions_smoke'
+[13.13.29] ! Can't find texture 'pfx\pfx_flame'
+[13.13.29] ! Can't find texture 'pfx\pfx_flame_01'
+[13.13.29] ! Can't find texture 'pfx\pfx_flamefx_01'
+[13.13.29] ! Can't find texture 'pfx\pfx_flash_01'
+[13.13.29] ! Can't find texture 'pfx\pfx_flash_05'
+[13.13.29] ! Can't find texture 'pfx\pfx_flash_07'
+[13.13.29] ! Can't find texture 'pfx\pfx_gradient'
+[13.13.29] ! Can't find texture 'pfx\pfx_gologramma'
+[13.13.29] ! Can't find texture 'pfx\pfx_gradient1'
+[13.13.29] ! Can't find texture 'pfx\pfx_leaves_01'
+[13.13.29] ! Can't find texture 'pfx\pfx_leaves_02'
+[13.13.29] ! Can't find texture 'pfx\pfx_light1'
+[13.13.29] ! Can't find texture 'pfx\pfx_light3'
+[13.13.29] ! Can't find texture 'pfx\pfx_light4'
+[13.13.29] ! Can't find texture 'wm\wm_knife_horiz_metal'
+[13.13.29] ! Can't find texture 'pfx\pfx_lighting_stancia_01'
+[13.13.29] ! Can't find texture 'pfx\pfx_lighting_stancia_02'
+[13.13.29] ! Can't find texture 'pfx\pfx_lightning_01'
+[13.13.29] ! Can't find texture 'pfx\pfx_lightning_02'
+[13.13.29] ! Can't find texture 'pfx\pfx_ligth_6'
+[13.13.29] ! Can't find texture 'pfx\pfx_plasma'
+[13.13.29] ! Can't find texture 'pfx\pfx_shells1'
+[13.13.29] ! Can't find texture 'pfx\pfx_shells2'
+[13.13.29] ! Can't find texture 'pfx\pfx_skinsplash1'
+[13.13.29] ! Can't find texture 'pfx\pfx_smoke_a'
+[13.13.29] ! Can't find texture 'pfx\pfx_smoke_b'
+[13.13.29] ! Can't find texture 'pfx\pfx_smokepuffs1'
+[13.13.29] ! Can't find texture 'pfx\pfx_smokepuffs2'
+[13.13.29] ! Can't find texture 'pfx\pfx_spark_01'
+[13.13.29] ! Can't find texture 'pfx\pfx_sparks'
+[13.13.29] ! Can't find texture 'pfx\pfx_specks'
+[13.13.29] ! Can't find texture 'pfx\pfx_specks_poison'
+[13.13.29] ! Can't find texture 'wm\wm_knife_horiz_blood1'
+[13.13.29] ! Can't find texture 'pfx\pfx_spikey_star'
+[13.13.29] ! Can't find texture 'pfx\pfx_splash3'
+[13.13.29] ! Can't find texture 'pfx\pfx_splash_01'
+[13.13.29] ! Can't find texture 'pfx\pfx_splash_02'
+[13.13.29] ! Can't find texture 'pfx\pfx_step_blood'
+[13.13.29] ! Can't find texture 'pfx\pfx_stonedebris2'
+[13.13.29] ! Can't find texture 'pfx\pfx_stonedebris1'
+[13.13.29] ! Can't find texture 'pfx\pfx_synus'
+[13.13.29] ! Can't find texture 'pfx\pfx_teleport'
+[13.13.29] ! Can't find texture 'pfx\pfx_test_textures'
+[13.13.29] ! Can't find texture 'pfx\pfx_vehglassdebris_01'
+[13.13.29] ! Can't find texture 'pfx\pfx_vehmetaldebris_01'
+[13.13.29] ! Can't find texture 'pfx\pfx_water_wave'
+[13.13.29] ! Can't find texture 'pfx\pfx_woodchips1'
+[13.13.29] ! Can't find texture 'pfx\pfx_woodchips3'
+[13.13.29] ! Can't find texture 'prop\prop_fake_bed_fireplace'
+[13.13.29] ! Can't find texture 'prop\prop_provod_02'
+[13.13.29] ! Can't find texture 'wm\wm_knife_horiz_blood'
+[13.13.29] ! Can't find texture 'sky\sky_12_vibros_cube'
+[13.13.29] ! Can't find texture 'sky\sky_12_vibros_cube#small'
+[13.13.29] ! Can't find texture 'sky\sky_13_cube'
+[13.13.29] ! Can't find texture 'sky\sky_13_cube#small'
+[13.13.29] ! Can't find texture 'sky\sky_13_cube_night'
+[13.13.29] ! Can't find texture 'sky\sky_13_vibros_cube'
+[13.13.29] ! Can't find texture 'sky\sky_13_cube_night#small'
+[13.13.29] ! Can't find texture 'sky\sky_13_vibros_cube#small'
+[13.13.29] ! Can't find texture 'sky\sky_14_cube'
+[13.13.29] ! Can't find texture 'sky\sky_14_cube#small'
+[13.13.29] ! Can't find texture 'sky\sky_17_cube'
+[13.13.29] ! Can't find texture 'sky\sky_17_cube#small'
+[13.13.29] ! Can't find texture 'sky\sky_18_cube'
+[13.13.29] ! Can't find texture 'sky\sky_18_cube#small'
+[13.13.29] ! Can't find texture 'sky\sky_19_cube'
+[13.13.29] ! Can't find texture 'wm\wm_knife_horiz'
+[13.13.29] ! Can't find texture 'sky\sky_19_cube#small'
+[13.13.29] ! Can't find texture 'sky\sky_20_cube#small'
+[13.13.29] ! Can't find texture 'sky\sky_20_cube'
+[13.13.29] ! Can't find texture 'sky\sky_2_cube'
+[13.13.29] ! Can't find texture 'sky\sky_2_cube#small'
+[13.13.29] ! Can't find texture 'sky\sky_3_cube'
+[13.13.29] ! Can't find texture 'sky\sky_3_cube#small'
+[13.13.29] ! Can't find texture 'sky\sky_4_cube#small'
+[13.13.29] ! Can't find texture 'sky\sky_4_cube'
+[13.13.29] ! Can't find texture 'sky\sky_5_cube'
+[13.13.29] ! Can't find texture 'sky\sky_5_cube#small'
+[13.13.29] ! Can't find texture 'sky\sky_6_cube'
+[13.13.29] ! Can't find texture 'sky\sky_6_cube#small'
+[13.13.29] ! Can't find texture 'sky\sky_7_cube'
+[13.13.29] ! Can't find texture 'sky\sky_7_cube#small'
+[13.13.29] ! Can't find texture 'sky\sky_8_cube'
+[13.13.29] ! Can't find texture 'wm\wm_knife_dead'
+[13.13.29] ! Can't find texture 'sky\sky_8_cube#small'
+[13.13.29] ! Can't find texture 'sky\sky_9_cube'
+[13.13.29] ! Can't find texture 'sky\sky_9_cube#small'
+[13.13.29] ! Can't find texture 'sky\sky_oblaka'
+[13.13.29] ! Can't find texture 'water\water_SBumpVolume'
+[13.13.29] ! Can't find texture 'water\water_flowing_nmap'
+[13.13.29] ! Can't find texture 'water\water_normal'
+[13.13.29] ! Can't find texture 'water\water_water'
+[13.13.29] ! Can't find texture 'wm\wm_blood_1'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_wood_9'
+[13.13.29] ! Can't find texture 'wm\wm_blood_1_1'
+[13.13.29] ! Can't find texture 'wm\wm_blood_1_2'
+[13.13.29] ! Can't find texture 'wm\wm_blood_1_3'
+[13.13.29] ! Can't find texture 'wm\wm_blood_drop_4'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_asfalt_1'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_asfalt_2'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_asfalt_3'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_brick_1'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_brick_2'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_concrete'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_concrete_1'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_concrete_2'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_concrete_4'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_concrete_5'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_concrete_6'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_concrete_7'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_glass01'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_glass02'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_glass03'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_glass04'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_ground'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_ground_1'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_ground_2'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_metall_thik'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_wood_8'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_metall_thik_1'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_metall_thik_2'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_metall_thik_3'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_metall_thin'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_metall_thin_1'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_metall_thin_2'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_metall_thin_3'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_metall_thin_4'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_wood'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_wood_1'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_wood_2'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_wood_3'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_wood_4'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_wood_5'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_wood_6'
+[13.13.29] ! Can't find texture 'wm\wm_bullet_wood_7'
+[13.13.29] texture loading time: 50
+[13.13.29] * [prefetch] time:    61 ms
+[13.13.29] * [prefetch] memory:  3848Kb
+[13.13.29] New client option: localhost/name=Unf
+[13.13.29] New server option: all/single/alife/new
+[13.13.29] * phase time: 92 ms
+[13.13.29] * loading script _g.script
+[13.13.29] * loading script lua_addition.script
+[13.13.29] * loading script oxy_string.script
+[13.13.29] * loading script class_registrator.script
+[13.13.29] * loading script ui_main_menu.script
+[13.13.29] * loading script smart_terrain.script
+[13.13.29] * loading script se_level_changer.script
+[13.13.29] * loading script se_actor.script
+[13.13.29] * loading script se_stalker.script
+[13.13.29] * loading script se_heli.script
+[13.13.29] * loading script se_zones.script
+[13.13.29] * loading script se_item.script
+[13.13.29] * loading script se_smart_cover.script
+[13.13.29] * loading script se_artefact.script
+[13.13.29] * loading script se_monster.script
+[13.13.29] ! Cannot register client class "CBullet"
+[13.13.29] ! Cannot register client class "CGrenade"
+[13.13.29] * loading script sim_squad_scripted.script
+[13.13.29] New server option: all/single/alife
+[13.13.29] * loading script smart_names.script
+[13.13.29] * loading script task_manager.script
+[13.13.29] * loading script sound_theme.script
+[13.13.29] * loading script xr_sound.script
+[13.13.29] * loading script dialog_manager.script
+[13.13.29] * loading script xr_s.script
+[13.13.29] * loading script xrs_dyn_music.script
+[13.13.29] * loading script sim_objects.script
+[13.13.29] * loading script sim_board.script
+[13.13.29] * loading script sr_light.script
+[13.13.29] * loading script pda.script
+[13.13.29] * loading script utils.script
+[13.13.29] * loading script db.script
+[13.13.29] * loading script actor_proxy.script
+[13.13.29] * phase time: 26 ms
+[13.13.29] * phase time: 0 ms
+[13.13.29] * Creating new game...
+[13.13.29] * loading script inventory_upgrades.script
+[13.13.29] * Loading spawn registry...
+[13.13.29] * 19 spawn points are successfully loaded
+[13.13.29] * loading script story_objects.script
+[13.13.29] * loading script simulation_objects.script
+[13.13.29] * loading script xr_logic.script
+[13.13.29] * loading script xr_conditions.script
+[13.13.29] * loading script smart_terrain_control.script
+[13.13.29] * loading script xr_statistic.script
+[13.13.29] * loading script treasure_manager.script
+[13.13.29] * New game is successfully created!
+[13.13.29] * phase time: 51 ms
+[13.13.29] ! Can't find texture 'intro\intro_test_level_1'
+[13.13.29] * loading script loadscreen.script
+[13.13.29] * phase time: 1 ms
+[13.13.29] * phase time: 18 ms
+[13.13.29] * phase time: 17 ms
+[13.13.29] * phase time: 16 ms
+[13.13.29] * phase time: 38 ms
+[13.13.29] Nvidia Ansel is supported and used
+[13.13.29] * phase time: 31 ms
+[13.13.29] * [Loading VB] 6893 verts, 215 Kb
+[13.13.29] * [Loading VB] 10496 verts, 328 Kb
+[13.13.29] * [Loading IB] 64200 indices, 125 Kb
+[13.13.29] * phase time: 2 ms
+[13.13.29] * phase time: 4 ms
+[13.13.29] * phase time: 16 ms
+[13.13.29]  WARNING: Occlusion map 'c:\installed_games\another_side\gamedata\levels\test_level\level.hom' not found.
+[13.13.29] * phase time: 16 ms
+[13.13.29] * phase time: 17 ms
+[13.13.29] * phase time: 32 ms
+[13.13.29] * phase time: 17 ms
+[13.13.29] CResourceManager::DeferredUpload -> START, size = 315
+[13.13.29] ! Can't find texture 'ui\ui_hud_hit_mark'
+[13.13.29] ! Can't find texture 'environment_items\light\glow_galogen'
+[13.13.29] ! Can't find texture 'materials\concrete\concrete_bitumen'
+[13.13.29] ! Can't find texture 'materials\earth\earh\earth_black'
+[13.13.29] ! Can't find texture 'materials\wallpaper\wallpaper_red_2'
+[13.13.29] ! Can't find texture 'materials\metal\rust\plate_gray_rust_06'
+[13.13.29] ! Can't find texture 'materials\wallpaper\wallpaper_yellow_07'
+[13.13.29] ! Can't find texture 'materials\wallpaper\wallpaper_yellow_08'
+[13.13.29] ! Can't find texture 'materials\roof\metal_slate\metal_slate_09'
+[13.13.29] ! Can't find texture 'materials\wood\wood_board_100'
+[13.13.29] ! Can't find texture 'materials\wood\fanera_01'
+[13.13.29] ! Can't find texture 'materials\wood\wood_board_12'
+[13.13.29] ! Can't find texture 'materials\wood\wood_board_09'
+[13.13.29] ! Can't find texture 'materials\floor\floor_tile_red'
+[13.13.29] ! Can't find texture 'materials\wallpaper\wallpaper_red_2_1'
+[13.13.29] ! Can't find texture 'materials\wood\wood_board_101'
+[13.13.29] ! Can't find texture 'materials\wood\wood_board_104'
+[13.13.29] ! Can't find texture 'materials\metal\rust\plate_rust_19'
+[13.13.29] ! Can't find texture 'materials\floor\parquet_wood_wattled_3'
+[13.13.29] ! Can't find texture 'ui\ui_hud_grenade_mark'
+[13.13.29] ! Can't find texture 'materials\wood\wood_board_17'
+[13.13.29] ! Can't find texture 'materials\wood\wood_board_44'
+[13.13.29] ! Can't find texture 'materials\wood\wood_board_76'
+[13.13.29] ! Can't find texture 'materials\wood\wood_board_90'
+[13.13.29] ! Can't find texture 'materials\wood\wood_board_grey'
+[13.13.29] ! Can't find texture 'ui\cursor'
+[13.13.29] ! Can't find texture 'ui\ui_actor_dialog_screen'
+[13.13.29] texture loading time: 15
+[13.13.29] * phase time: 30 ms
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\weapons\whine_1.ogg.ogg
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\weapons\whine_2.ogg.ogg
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\weapons\whine_3.ogg.ogg
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\weapons\whine_4.ogg.ogg
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\weapons\whine01.ogg.ogg
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\weapons\whine02.ogg.ogg
+[13.13.29] ! Can't find texture 'ui\ui_actor_sleep_screen'
+[13.13.29] ! Can't find texture 'ui\ui_grid'
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\interface\inv_open.ogg.ogg
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\interface\inv_close.ogg.ogg
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\interface\inv_slot.ogg.ogg
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\interface\inv_belt.ogg.ogg
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\interface\inv_ruck.ogg.ogg
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\interface\inv_properties.ogg.ogg
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\interface\inv_drop.ogg.ogg
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\interface\inv_attach_addon.ogg.ogg
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\interface\inv_detach_addon.ogg.ogg
+[13.13.29] ! Can't find texture 'ui_wp_propery_07'
+[13.13.29] ! Can't find texture 'ui_am_propery_09'
+[13.13.29] ! Can't find texture 'ui_am_propery_11'
+[13.13.29] ! Can't find texture 'ui_am_propery_05'
+[13.13.29] ! Can't find texture 'ui_am_propery_07'
+[13.13.29] ! Can't find texture 'ui_am_propery_08'
+[13.13.29] ! Can't find texture 'ui_wp_propery_02'
+[13.13.29] ! Can't find texture 'ui_wp_propery_03'
+[13.13.29] ! Can't find texture 'ui_wp_propery_08'
+[13.13.29] ! Can't find texture 'ui_am_propery_03'
+[13.13.29] ! Can't find texture 'ui_wp_propery_09'
+[13.13.29] ! Can't find texture 'ui_wp_propery_10'
+[13.13.29] ! Can't find texture 'ui_wp_propery_12'
+[13.13.29] ! Can't find texture 'ui_am_propery_01'
+[13.13.29] ! Can't find texture 'button_rectangle_d'
+[13.13.29] ! Can't find texture 'video\fone_video'
+[13.13.29] ! Can't find texture 'button_rectangle_transparent_d'
+[13.13.29] ! Can't find texture 'ui\ui_global_map'
+[13.13.29] ! Can't find texture 'btn_nav_legend_d'
+[13.13.29] ! Can't find texture 'btn_nav_up_d'
+[13.13.29] ! Can't find texture 'btn_nav_zoom_in_d'
+[13.13.29] ! Can't find texture 'btn_nav_left_d'
+[13.13.29] ! Can't find texture 'btn_nav_center_d'
+[13.13.29] ! Can't find texture 'btn_nav_right_d'
+[13.13.29] ! Can't find texture 'btn_nav_zoom_out_d'
+[13.13.29] ! Can't find texture 'btn_nav_down_d'
+[13.13.29] ! Can't find texture 'btn_nav_zmreset_d'
+[13.13.29] ! default LevelMap used for level[oksi_test]
+[13.13.29] ! Can't find texture 'ui\ui_nomap2'
+[13.13.29] ! Can't find texture 'btn_task_focus_d'
+[13.13.29] ! Can't find texture 'pda_offline_d'
+[13.13.29] ! Can't find texture 'ui_pda_checker_d'
+[13.13.29] ! Can't find texture 'pda_filtr_arrow_left_d'
+[13.13.29] ! Can't find texture 'pda_filtr_arrow_right_d'
+[13.13.29] ! Can't find texture 'fx\white_noise\white_noise'
+[13.13.29] ! Can't find texture 'ui\ui_icon_equipment'
+[13.13.29] ! Can't find texture 'map\map_test_level'
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\detectors\da-2_beep1.ogg.ogg
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\detectors\geiger_1.ogg.ogg
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\detectors\geiger_2.ogg.ogg
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\detectors\geiger_3.ogg.ogg
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\detectors\geiger_4.ogg.ogg
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\detectors\geiger_5.ogg.ogg
+[13.13.29] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\detectors\geiger_6.ogg.ogg
+[13.13.29] ! Can't find texture 'materials\glass\glass_06'
+[13.13.29] ! Can't find texture 'sky\sky_cube_weapons'
+[13.13.29] ! Can't find texture 'act\act_faces_1_03'
+[13.13.30] ! Can't find texture 'act\act_stalker_hero'
+[13.13.30] ! Can't find texture 'wm\wm_blood_2'
+[13.13.30] ! Can't find texture 'wm\wm_blood_3'
+[13.13.30] ! Can't find texture 'wm\wm_blood_drop_1'
+[13.13.30] ! Can't find texture 'wm\wm_blood_drop_2'
+[13.13.30] ! Can't find texture 'wm\wm_blood_drop_3'
+[13.13.30] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\actor\pain1.ogg.ogg
+[13.13.30] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\actor\pain2.ogg.ogg
+[13.13.30] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\actor\pain3.ogg.ogg
+[13.13.30] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\actor\die0.ogg.ogg
+[13.13.30] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\actor\die1.ogg.ogg
+[13.13.30] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\actor\die2.ogg.ogg
+[13.13.30] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\actor\die3.ogg.ogg
+[13.13.30] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\actor\breath_1.ogg.ogg
+[13.13.30] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\affects\heartbeat.ogg.ogg
+[13.13.30] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\monsters\biting\def_0.ogg.ogg
+[13.13.30] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\actor\bullet_hit_1.ogg.ogg
+[13.13.30] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\actor\bullet_hit_2.ogg.ogg
+[13.13.30] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\actor\bullet_hit_3.ogg.ogg
+[13.13.30] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\actor\bullet_hit_4.ogg.ogg
+[13.13.30] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\affects\tinnitus3a.ogg.ogg
+[13.13.30] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\actor\hurt1.ogg.ogg
+[13.13.30] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\actor\hurt2.ogg.ogg
+[13.13.30] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\actor\hurt3.ogg.ogg
+[13.13.30] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\actor\hurt4.ogg.ogg
+[13.13.30] * loading script bind_stalker.script
+[13.13.30] * loading script level_weathers.script
+[13.13.30] * loading script surge_manager.script
+[13.13.30] * loading script death_manager.script
+[13.13.30] * loading script benchmark.script
+[13.13.30] ! Can't find texture 'ui\ui_common'
+[13.13.30] ! Can't find texture 'items\equipment\radio_station\item_ustroystva'
+[13.13.30] ! Can't find texture 'environment_items\technical_equipment\psyradar'
+[13.13.30] * loading script bind_physic_object.script
+[13.13.30] * loading script jump_level.script
+[13.13.30] * loading script game_stats.script
+[13.13.30] * loading script sr_psy_antenna.script
+[13.13.30] ! Can't find texture 'wpn\wpn_bolt'
+[13.13.31] intro_start game_loaded
+[13.13.38] intro_delete ::update_game_loaded
+[13.13.38] ! Can't find texture 'intro\cop_intro_movie'
+[13.13.38] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\music\intro.ogg.ogg
+[13.13.38] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\characters_voice\scenario\zaton\zat_a1_cutscene_phrase_1.ogg.ogg
+[13.13.38] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\characters_voice\scenario\zaton\zat_a1_cutscene_phrase_2.ogg.ogg
+[13.13.38] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\characters_voice\scenario\zaton\zat_a1_cutscene_phrase_3.ogg.ogg
+[13.13.38] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\characters_voice\scenario\zaton\zat_a1_cutscene_phrase_4.ogg.ogg
+[13.13.38] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\characters_voice\scenario\zaton\zat_a1_cutscene_phrase_5.ogg.ogg
+[13.13.38] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\characters_voice\scenario\zaton\zat_a1_cutscene_phrase_6.ogg.ogg
+[13.13.38] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\characters_voice\scenario\zaton\zat_a1_cutscene_phrase_7.ogg.ogg
+[13.13.38] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\characters_voice\scenario\zaton\zat_a1_cutscene_phrase_8.ogg.ogg
+[13.13.38] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\characters_voice\scenario\zaton\zat_a1_cutscene_phrase_9.ogg.ogg
+[13.13.38] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\characters_voice\scenario\zaton\zat_a1_cutscene_phrase_10.ogg.ogg
+[13.13.38] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\characters_voice\scenario\zaton\zat_a1_cutscene_phrase_11.ogg.ogg
+[13.13.38] ! Can't find sound c:\installed_games\another_side\gamedata\sounds\characters_voice\scenario\zaton\zat_a1_cutscene_phrase_12.ogg.ogg
+[13.13.38] intro_start intro_game
+[13.13.38] * loading script xr_effects.script
+[13.13.38] ! File not found "c:\installed_games\another_side\gamedata\sounds\anomaly\teleport_incoming.ogg"!
+[13.13.38] ! File not found "c:\installed_games\another_side\gamedata\sounds\anomaly\teleport_incoming.ogg"!
+[13.13.38] ! File not found "c:\installed_games\another_side\gamedata\sounds\anomaly\teleport_incoming.ogg"!
+[13.13.38] ! File not found "c:\installed_games\another_side\gamedata\sounds\anomaly\teleport_incoming.ogg"!
+[13.13.38] intro_delete ::update_game_intro
+[13.13.46] - Disconnect
+[13.13.46] - Destroying level
+[13.13.46] ! Can't find texture 'ui\ui_console'
+[13.13.47] DestroySingleton::RefCounter: 0
+[13.13.47] DestroySingleton::RefCounter: 0
+[13.13.47] Config-file [c:\installed_games\another_side\userdata\user.ltx] saved successfully
+[13.13.47] Free library C:\Installed_games\Another_Side\oxy_LW\OpenAL32.dll
+[13.13.47] Destroying Direct3D...
+[13.13.47] refCount:pBaseZB1
+[13.13.47] refCount:pBaseRT1
+[13.13.47] refCount:m_pSwapChain1
+[13.13.47] refCount:DeviceREF:107
+[13.13.47] refCount:m_pAdapter1
+[13.13.47] Free library C:\Installed_games\Another_Side\oxy_LW\xrGame.DLL
+[13.13.47] Free library C:\Installed_games\Another_Side\oxy_LW\xrRender_R4.DLL
+[13.13.47] Free library C:\Windows\SYSTEM32\nvapi64.dll
